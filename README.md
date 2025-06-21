@@ -12,7 +12,7 @@ A conexão com o MongoDB foi feita usando o Mongoose.
 Configurei a URL de acesso ao cluster do MongoDB Atlas e testei a conexão com sucesso.  
 Foi um dos primeiros passos e um momento importante do projeto!
 
-![image](https://github.com/user-attachments/assets/9b8e10f9-4939-4555-9a29-8596b49c8db8)
+<img src="https://github.com/user-attachments/assets/a433271f-998b-4bbe-ae1b-250378fdb604" width="700"/>
 
 ---
 
@@ -22,7 +22,7 @@ Utilizei o Insomnia para testar as rotas da API.
 Implementei métodos `GET` e `POST` para cadastrar e visualizar usuários.  
 Ver os dados sendo retornados corretamente foi gratificante!
 
-![image](https://github.com/user-attachments/assets/9b8e10f9-4939-4555-9a29-8596b49c8db8)
+<img src="https://github.com/user-attachments/assets/e1adcc88-a8df-4e94-a2f9-a78f7a5a9728" width="700"/>
 
 ---
 
@@ -32,7 +32,7 @@ Após os testes com o Insomnia, pude confirmar que os dados estavam sendo salvos
 Acessei o cluster pelo MongoDB Atlas e visualizei a coleção com os usuários cadastrados.  
 Foi ótimo ver tudo funcionando como planejado.
 
-![image](https://github.com/user-attachments/assets/9b8e10f9-4939-4555-9a29-8596b49c8db8)
+<img src="https://github.com/user-attachments/assets/9b8e10f9-4939-4555-9a29-8596b49c8db8" width="700"/>
 
 ---
 
