@@ -44,5 +44,4 @@ Foi ótimo ver tudo funcionando como planejado.
 
 ---
 
-📌 Projeto feito com muito aprendizado e motivação! 💻
 
