@@ -3,6 +3,7 @@
 Este é o **meu primeiro projeto usando Node.js com MongoDB**.  
 Trata-se de uma pequena API que permite **adicionar e visualizar usuários**.  
 O projeto foi criado com foco em aprendizado e prática com Express, Mongoose e rotas básicas de API REST.
+Além disso também coloquei em prática a organização das pastas no padrão MVC.
 
 ---
 
@@ -19,10 +20,11 @@ Foi um dos primeiros passos e um momento importante do projeto!
 ## 📬 Testando rotas com Insomnia
 
 Utilizei o Insomnia para testar as rotas da API.  
-Implementei métodos `GET` e `POST` para cadastrar e visualizar usuários.  
+Implementei métodos `GET` e `POST` para cadastrar e visualizar usuários e também o método `DELETE` para deletar usuários através do id.  
 Ver os dados sendo retornados corretamente foi gratificante!
 
 <img src="https://github.com/user-attachments/assets/e1adcc88-a8df-4e94-a2f9-a78f7a5a9728" width="700"/>
+<img src="https://github.com/user-attachments/assets/fbf507a1-0703-477a-983a-991e570746f1" width="700"/>
 
 ---
 
